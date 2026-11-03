@@ -2,6 +2,6 @@
 
 [![Hits](https://hits.sh/github.com/basicallysquid.svg?style=plastic&label=lv.&color=fbffbb&labelColor=eeb16a&logo=d)](https://hits.sh/github.com/basicallysquid/)
 
-[![squid](https://media1.tenor.com/m/ESU_0E_f22MAAAAd/spinning-squiddo.gif)](https://spx2.straw.page)
+[![squid](https://media1.tenor.com/m/ESU_0E_f22MAAAAd/spinning-squiddo.gif)]
 
-<img src="https://media1.tenor.com/m/ESU_0E_f22MAAAAd/spinning-squiddo.gif" data-canonical-src="https://media1.tenor.com/m/ESU_0E_f22MAAAAd/spinning-squiddo.gif" width="700" height="700" />
+[!<img src="https://media1.tenor.com/m/ESU_0E_f22MAAAAd/spinning-squiddo.gif" data-canonical-src="https://media1.tenor.com/m/ESU_0E_f22MAAAAd/spinning-squiddo.gif" width="900" height="900" />](https://spx2.straw.page)
